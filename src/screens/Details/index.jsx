@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
   button: {
     position: 'absolute',
     backgroundColor: 'black',
-    bottom: 30,
+    bottom: 20,
     width: '90%',
     alignSelf: 'center',
     padding: 20,
